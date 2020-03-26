@@ -5,7 +5,16 @@
 	color: rgb(0, 207, 93);
 	background-color: rgb(17, 26, 40);
 }
-
+.header-div{
+	background-color: black;
+}
+#mobile{
+	text-align: center;
+	color: red;
+	
+	margin-top: 0px;
+	
+}
 
 body{
 	background:white;
@@ -78,4 +87,12 @@ display: none;
 #footer{
 	text-align: center;
 	color: gray;
+}
+#removeCart1{
+	color: rgb(255, 38, 244);
+	background-color:black;
+	
+}
+#removeCart2{
+	background-color: black;
 }
